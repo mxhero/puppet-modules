@@ -1,0 +1,3 @@
+[submodule "modules/dovecot"]
+	path = modules/dovecot
+	url = https://github.com/mxhero/puppet-dovecot.git
