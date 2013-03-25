@@ -1,5 +1,5 @@
-Custom modules for Puppet, made for Red Hat Enterprise Linux and CentOS
-=======================================================================
+Custom modules for Puppet
+=========================
 
 Overview
 --------
